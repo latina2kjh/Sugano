@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.rukou.hokkaido-c.ed.jp	TRUE	/	FALSE	1999999999	CAKEPHP	oq49jpp7cbtdj1kckbb0s0sggk
+
