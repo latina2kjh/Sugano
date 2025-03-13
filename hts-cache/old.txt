@@ -1,4 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-11:37:58	109/109	---M--	200	added ('OK')	text/plain	date:Thu,%2015%20Aug%202024%2003:05:03%20GMT	http://www.rukou.hokkaido-c.ed.jp/robots.txt		(from )
-11:37:59	35212/35212	---MCZ	200	added ('OK')	text/html	date:Wed,%2012%20Mar%202025%2004:36:30%20GMT	http://www.rukou.hokkaido-c.ed.jp/	E:/CloneWWeb/Hokkaido/www.rukou.hokkaido-c.ed.jp/index.html	(from )
-11:37:59	160/160	---M--	200	added ('OK')	image/vnd.microsoft.icon	date:Thu,%2015%20Aug%202024%2003:05:03%20GMT	http://www.rukou.hokkaido-c.ed.jp/nc_favicon.ico?1723691103	E:/CloneWWeb/Hokkaido/www.rukou.hokkaido-c.ed.jp/nc_favicon74ad.ico	(from http://www.rukou.hokkaido-c.ed.jp/)
